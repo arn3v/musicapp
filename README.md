@@ -1,5 +1,5 @@
 # musicapp
-# UCSD MAP Internship
+# UCSD MAP 
 
 **Music Social media app**
 
